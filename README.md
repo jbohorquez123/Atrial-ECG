@@ -1,3 +1,3 @@
 # ECG-Sample-01
- 1 minute ECG of AF patient
+ Basic Atrial ECG Extraction and 1 minute samples of AF ECGs
  Upload the file on GitHub Account
